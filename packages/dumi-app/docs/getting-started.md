@@ -1,9 +1,9 @@
 ---
 nav:
-  title: Getting Started
-  order: 1
+  title: let Getting Started
+  order: 2
 ---
 
-# Getting Started
+# Getting Started xxx
 
 Balabala...
