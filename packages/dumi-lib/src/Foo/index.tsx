@@ -1,3 +1,10 @@
 import React from 'react';
 
-export default ({ title }: { title: string }) => <h1>{title}</h1>;
+export default ({ title }: { title: string }) => <>
+	<style>
+		.ht{
+			//color:red;
+		}
+	</style>
+	<h1 class="ht">{title}</h1>
+</>;
